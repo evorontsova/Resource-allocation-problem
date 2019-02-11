@@ -10,5 +10,5 @@ Far Eastern Federal University (Vladivostok, Russia)
 Evgeniya Vorontsova 
 Far Eastern Federal University (Vladivostok, Russia)
 
-Article: TBC (in Russian)
+Article: https://arxiv.org/abs/1806.09071 (in Russian)
 
