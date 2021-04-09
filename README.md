@@ -1,14 +1,9 @@
-Anastasia Ivanova 
-Moscow Institute of Physics and Technology (Moscow, Russia) 
+My numerical experiments for the article 
+Walrasian Equilibrium and Centralized Distributed Optimization 
+from the point of view of Modern Convex Optimization Methods 
+on the Example of Resource Allocation Problem
 
-Alexander Gasnikov 
-Moscow Institute of Physics and Technology (Moscow, Russia) 
+How to find fair price?
 
-Evgeni Nurminski 
-Far Eastern Federal University (Vladivostok, Russia) 
-
-Evgeniya Vorontsova 
-Far Eastern Federal University (Vladivostok, Russia)
-
-Article: https://arxiv.org/abs/1806.09071 (in Russian)
+Link for the article: https://arxiv.org/abs/1806.09071 (in Russian)
 
